@@ -16,4 +16,9 @@ public class GameController : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene(1);
+    }
 }
