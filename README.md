@@ -1,2 +1,2 @@
 # menu-ludum
-Create a menu - game
+Create a menu to game.
